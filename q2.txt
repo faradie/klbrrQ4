@@ -1,0 +1,6 @@
+fruits,stiurf,stiurf,fruits,stiurf
+
+A=1
+B=10
+K=3
+3,6,9
